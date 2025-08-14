@@ -23,13 +23,6 @@ This repository provides **verifiable, non-promotional information** about the M
 ## Token JSON (for integrators)
 See [`token.json`](token.json) — includes chainId, address, decimals, links, and metadata used by tools and dashboards.
 
-## Supply API
-BscScan total-supply endpoint (replace the API key):
-```
-https://api.bscscan.com/api?module=stats&action=tokensupply&contractaddress=0xD0bae9C5Db86088Fe748bD415A077aB546f517A2&apikey=YourApiKeyToken
-```
-Returns an object with `result` as string in **raw units** (10^18).
-
 ## Security / Ownership
 - Source verified on BscScan.
 - No owner-only fee switches or pausable trading.
