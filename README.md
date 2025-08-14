@@ -33,6 +33,7 @@ See [`docs/ownership-and-risks.md`](docs/ownership-and-risks.md) for a plain-lan
 ## Brand Assets
 - Transparent 200×200 PNG logo: [`assets/logo-200x200.png`](assets/logo-200x200.png)
 - Square 32×32 PNG: [`assets/logo-32x32.png`](assets/logo-32x32.png)
+- Mascot PNG  [`assets/mascot.png`](assets/mascot.png)
 
 ## Changelog
 - 2025-08-14: Initial publication for CoinGecko review (readme, token.json, assets).
